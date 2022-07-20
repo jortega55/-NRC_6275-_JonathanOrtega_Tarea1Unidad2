@@ -1,21 +1,3 @@
-
-/* estilo y dimensiones de la imagen */
-img.results-img {
-    float: left;
-    height: 100px;
-}
-
-/* estilo del liezo donde se realizara el grafico */
-#inputCanvas {
-    border: 2px solid rgb(211, 27, 49);
-}
-
-/* estilo del footer de la pagina web */
-#footer {
-    margin-top: 100px;
-    background-color: aquamarine;
-}
-
 /* estilos del cuerpo de la pagina */
 body {
     background: url('https://i.ytimg.com/vi/n2KH2GH7xt0/maxresdefault.jpg');
@@ -23,14 +5,14 @@ body {
     top: 100px;
     right: 400px;
     left: 400px;
-   
-
 }
-
-
 /*estilo de la latra formato h1*/
 h1 {
     color: antiquewhite;
 }
 
+
+button {
+background-color: aquamarine;
+}
 
