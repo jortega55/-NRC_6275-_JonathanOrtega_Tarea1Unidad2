@@ -1,0 +1,44 @@
+/*estilos de los botones  */
+.btn {
+    background-color: rgb(216, 43, 60);
+}
+
+/* estilo y dimensiones de la imagen */
+img.results-img {
+    float: left;
+    height: 100px;
+}
+
+/* estilo del liezo donde se realizara el grafico */
+#inputCanvas {
+    border: 2px solid rgb(211, 27, 49);
+}
+
+/* estilo del footer de la pagina web */
+#footer {
+    margin-top: 100px;
+    background-color: aquamarine;
+}
+
+/* estilos del cuerpo de la pagina */
+body {
+    background: url('https://i.ytimg.com/vi/n2KH2GH7xt0/maxresdefault.jpg');
+    position: absolute;
+    top: 100px;
+    right: 400px;
+    left: 400px;
+   
+
+}
+/* estilo del cuadrado canvas*/
+canvas {
+    border: 2px solid black;
+    background: url('https://i.blogs.es/f2089f/p20111027201456/1366_2000.jpg');
+    align-content: center;
+}
+/*estilo de la latra formato h1*/
+h1 {
+    color: antiquewhite;
+}
+
+
